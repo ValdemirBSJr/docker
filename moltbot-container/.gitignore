@@ -1,0 +1,61 @@
+```
+# Arquivos de ambiente
+.env
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Arquivos de texto
+*.txt
+
+# Configurações do IntelliJ
+.idea/
+
+# Informações de pacotes Python
+.egg-info/
+
+# Arquivos de log
+*.log
+
+# Arquivos de dump
+*.dump
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pasta node_modules
+node_modules/
+
+# Pasta build
+build/
+
+# Arquivos de dependência
+package-lock.json
+yarn.lock
+requirements.txt
+
+# Arquivos de configuração do Docker
+docker-compose.yaml
+docker-compose.yml
+Dockerfile
+
+# Arquivos de configuração do WSL
+.wslconfig
+
+# Arquivos de configuração do OpenRouter
+openrouter.conf
+
+# Arquivos de configuração do Moltbot
+moltbot.conf
+
+# Outros
+*.git
+*.svn
+*.hg
+```
