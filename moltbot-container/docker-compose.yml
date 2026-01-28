@@ -1,0 +1,22 @@
+services:
+  moltbot:
+    build: .
+    container_name: moltbot
+    restart: unless-stopped
+    # Mapeia a porta do gtw
+    #ports:  #Abaixo para PROD
+      #- "18789:18789"
+    network_mode: "host"
+    volumes:
+      # Persistência da configuração e sessões (WhatsApp, chaves, etc)
+      - ./data:/root/.clawdbot
+      # Persistência do workspace (arquivos que o bot cria/manipula)
+      - ./workspace:/root/clawd_workspace
+    environment:
+      - NODE_ENV=production
+      - OPENAI_API_KEY=API_KEY
+      - OPENAI_BASE_URL=API_URL
+      - LLM_MODEL=MODEL
+    # Habilita modo interativo
+    stdin_open: true
+    tty: true
