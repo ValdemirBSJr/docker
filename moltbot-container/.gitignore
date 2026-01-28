@@ -40,11 +40,6 @@ package-lock.json
 yarn.lock
 requirements.txt
 
-# Arquivos de configuração do Docker
-docker-compose.yaml
-docker-compose.yml
-Dockerfile
-
 # Arquivos de configuração do WSL
 .wslconfig
 
