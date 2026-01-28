@@ -37,4 +37,4 @@ Se você tiver alguma dúvida ou precisar de ajuda, por favor, não hesite em en
 * O uso do Moltbot é por sua conta e risco.
 
 ## Artigo original demonstrando o uso:
-[https://www.linkedin.com/pulse/como-parei-de-criar-readmes-manualmente-usando-python-valdemir-rdycc](https://www.linkedin.com/pulse/moltbot-clawdbot-docker-wsl-como-criei-um-agente-de-valdemir-fktqf)
+[https://www.linkedin.com/pulse/moltbot-clawdbot-docker-wsl-como-criei-um-agente-de-valdemir-fktqf](https://www.linkedin.com/pulse/moltbot-clawdbot-docker-wsl-como-criei-um-agente-de-valdemir-fktqf)
