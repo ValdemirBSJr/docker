@@ -1,3 +1,6 @@
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 # Moltbot como Agente Pessoal de IA
 ==========================
 
@@ -24,7 +27,14 @@ O Moltbot é uma ferramenta de IA que visa ser um agente pessoal de última gera
 ## Contato
 Se você tiver alguma dúvida ou precisar de ajuda, por favor, não hesite em entrar em contato comigo. Você pode abrir uma issue neste repositório ou me contatar diretamente.
 
+* **Valdemir Bezerra de Souza Júnior**
+* Analista Infraestrutura | Devops | SRE | Cloud | Oracle Cloud | Linux | Docker | Kubernets | Python | Go | Rust | Lua | N8N | No Code
+* [Linkedin](https://www.linkedin.com/in/valdemirbezerra/)
+
 ## Observações
 * O Moltbot é uma ferramenta ainda em desenvolvimento, portanto, é recomendável usar com cautela.
 * Certifique-se de ler as instruções cuidadosamente antes de usar o Moltbot.
 * O uso do Moltbot é por sua conta e risco.
+
+## Artigo original demonstrando o uso:
+[https://www.linkedin.com/pulse/como-parei-de-criar-readmes-manualmente-usando-python-valdemir-rdycc](https://www.linkedin.com/pulse/moltbot-clawdbot-docker-wsl-como-criei-um-agente-de-valdemir-fktqf)
